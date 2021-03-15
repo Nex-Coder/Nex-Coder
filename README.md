@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nex-Coder
+- 👀 I’m interested in ... small OOP projects :>
+- 🌱 I’m currently learning ... Advanced OOP.
+- 💞️ I’m looking to collaborate on ... anything i love <3
+- 📫 How to reach me ... any way :D
